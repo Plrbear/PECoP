@@ -11,20 +11,23 @@
 # Usage
 
 ## Data preparation
+Will be updated....
 
 
 ## Pretrain
+will be updated...
 
 python train.py --bs 16 --lr 0.001 --height 256 --width 256 --crop_sz 224 --clip_len 32
 
 
 
 ## Evaluation
-To be updated...
+Will be updaated...
 
 # Citation
+Will be updated....
 
 # Acknowlegement
-Part of our codes are adapted from ...
+Will be updated...
 
 
