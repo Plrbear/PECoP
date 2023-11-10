@@ -5,25 +5,27 @@
 
 ### The PD4T Dataset Summary, Categorized by Severity Scores
 
+### The PD4T Dataset Summary, Categorized by Severity Scores
+
 For each of the four motor tasks, the table lists the total number of videos (#video), the minimum (#min) and maximum (#max) number of frames for the respective task.
 
 |                      |        | Normal (0) | Slight (1) | Mild (2) | Moderate (3) | Severe (4) |
 |----------------------|--------|------------|------------|----------|--------------|------------|
-| **Gait**             | #video | 196        | 158        | 64       | 8            | 0          |
+| <div align="center">**Gait**</div> | #video | 196        | 158        | 64       | 8            | 0          |
 |                      | #min   | 325        | 580        | 421      | 664          | -          |
 |                      | #max   | 980        | 1866       | 13428    | 10688        | -          |
-| **Finger Tapping**   | #video | 152        | 465        | 164      | 23           | 2          |
+|----------------------|--------|------------|------------|----------|--------------|------------|
+| <div align="center">**Finger Tapping**</div>   | #video | 152        | 465        | 164      | 23           | 2          |
 |                      | #min   | 129        | 129        | 129      | 162          | 159        |
 |                      | #max   | 450        | 724        | 853      | 398          | 460        |
-| **Hand Movements**   | #video | 234        | 407        | 179      | 23           | 5          |
+|----------------------|--------|------------|------------|----------|--------------|------------|
+| <div align="center">**Hand Movements**</div>   | #video | 234        | 407        | 179      | 23           | 5          |
 |                      | #min   | 131        | 136        | 150      | 197          | 220        |
 |                      | #max   | 334        | 571        | 717      | 648          | 648        |
-| **Leg Agility**      | #video | 407        | 376        | 54       | 11           | 3          |
+|----------------------|--------|------------|------------|----------|--------------|------------|
+| <div align="center">**Leg Agility**</div>      | #video | 407        | 376        | 54       | 11           | 3          |
 |                      | #min   | 129        | 135        | 155      | 273          | 345        |
 |                      | #max   | 513        | 427        | 686      | 504          | 435        |
-
-
-
 
 
 # Requirements
