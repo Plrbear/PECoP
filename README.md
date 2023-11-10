@@ -1,31 +1,11 @@
 # PECoP: Parameter Efficient Continual Pretraining for Action Quality Assessment
 
-# Dataset
+# PD4T Dataset 
 
 
-### The PD4T Dataset Summary, Categorized by Severity Scores
+PD4T is a Parkinson’s disease dataset for human action quality assessment. videos were recorded using a single RGB camera from 30 PD patients performed four different PD tasks including gait (426 videos), hand movement (848 videos), finger tapping (806 videos), and leg agility (851 videos) in clinical settings.
+The trained rater assigned a score for each task, based on the protocols of UPDRS, varying between 0 and 4 depending on the level of severity. 
 
-### The PD4T Dataset Summary, Categorized by Severity Scores
-
-For each of the four motor tasks, the table lists the total number of videos (#video), the minimum (#min) and maximum (#max) number of frames for the respective task.
-
-|                      |        | Normal (0) | Slight (1) | Mild (2) | Moderate (3) | Severe (4) |
-|----------------------|--------|------------|------------|----------|--------------|------------|
-| <div align="center">**Gait**</div> | #video | 196        | 158        | 64       | 8            | 0          |
-|                      | #min   | 325        | 580        | 421      | 664          | -          |
-|                      | #max   | 980        | 1866       | 13428    | 10688        | -          |
-|----------------------|--------|------------|------------|----------|--------------|------------|
-| <div align="center">**Finger Tapping**</div>   | #video | 152        | 465        | 164      | 23           | 2          |
-|                      | #min   | 129        | 129        | 129      | 162          | 159        |
-|                      | #max   | 450        | 724        | 853      | 398          | 460        |
-|----------------------|--------|------------|------------|----------|--------------|------------|
-| <div align="center">**Hand Movements**</div>   | #video | 234        | 407        | 179      | 23           | 5          |
-|                      | #min   | 131        | 136        | 150      | 197          | 220        |
-|                      | #max   | 334        | 571        | 717      | 648          | 648        |
-|----------------------|--------|------------|------------|----------|--------------|------------|
-| <div align="center">**Leg Agility**</div>      | #video | 407        | 376        | 54       | 11           | 3          |
-|                      | #min   | 129        | 135        | 155      | 273          | 345        |
-|                      | #max   | 513        | 427        | 686      | 504          | 435        |
 
 
 # Requirements
