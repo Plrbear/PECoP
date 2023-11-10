@@ -5,6 +5,7 @@
 
 ![PD4T](https://github.com/Plrbear/PECoP/assets/31938815/80ba7e89-72be-4353-b933-1659773c9fdb)
 
+![Picture1](https://github.com/Plrbear/PECoP/assets/31938815/abe92b42-6b1a-443e-86af-2c9a197bbe75)
 
 PD4T is a Parkinson’s disease dataset for human action quality assessment. videos were recorded using a single RGB camera from 30 PD patients performed four different PD tasks including gait (426 videos), hand movement (848 videos), finger tapping (806 videos), and leg agility (851 videos) in clinical settings.
 The trained rater assigned a score for each task, based on the protocols of UPDRS, varying between 0 and 4 depending on the level of severity. 
