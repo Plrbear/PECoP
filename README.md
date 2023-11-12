@@ -20,9 +20,9 @@ To access the PD4T dataset, please complete and sign the [PD4T request form](dat
 
 
 ### Pretraining
-The Kinetics pretrained I3D downloaded from the reposity [kinetics_i3d_pytorch](https://github.com/hassony2/kinetics_i3d_pytorch/blob/master/model/model_rgb.pth)
+The Kinetics pretrained I3D downloaded from the reposity [kinetics_i3d_pytorch](https://github.com/hassony2/kinetics_i3d_pytorch/blob/master/model/model_rgb.pth).
 
-To train I3D model using PECoP, update the paths for the Kinetics dataset and your data directory accordingly. Then, execute the following command:
+To train I3D model using PECoP, update the paths for the Kinetics pretrained I3D and your data directory accordingly. Then, execute the following command:
 
 python train.py --bs 16 --lr 0.001 --height 256 --width 256 --crop_sz 224 --clip_len 32
 
@@ -33,7 +33,7 @@ Will be updaated...
 
 
 
-# Contact
+## Contact
  For any question, please file an issue or contact <br />
  Amirhossein Dadashzadeh: a.dadashzadeh@bristol.ac.uk
 
