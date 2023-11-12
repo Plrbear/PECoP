@@ -9,7 +9,7 @@
 PD4T is a Parkinson’s disease dataset for human action quality assessment. videos were recorded using a single RGB camera from 30 PD patients performed four different PD tasks including gait (426 videos), hand movement (848 videos), finger tapping (806 videos), and leg agility (851 videos) in clinical settings.
 The trained rater assigned a score for each task, based on the protocols of UPDRS, varying between 0 and 4 depending on the level of severity. 
 # Download
-To download the FineDiving dataset, please fill and sign the [PD4T request form](datasets/PD4T_Request_Form.docx) and send it to a.dadashzadeh@bristol.ac.uk. By sending the application, you are agreeing and acknowledging that you have read and understand the notice. We will reply with a link and the corresponding guidelines right after we receive your request.
+To access the PD4T dataset, please complete and sign the [PD4T request form](datasets/PD4T_Request_Form.docx) and forward it to a.dadashzadeh@bristol.ac.uk. By submitting your application, you acknowledge and confirm that you have read and understood the relevant notice. Upon receiving your request, we will promptly respond with the necessary link and guidelines.
 
 # Requirements
 - pytroch >= 1.3.0
@@ -17,9 +17,6 @@ To download the FineDiving dataset, please fill and sign the [PD4T request form]
 - cv2
 - scipy
 
-
-## Data preparation
-Will be updated....
 
 
 ## Pretrain
