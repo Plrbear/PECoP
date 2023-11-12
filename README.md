@@ -34,8 +34,7 @@ Will be updaated...
 
 
 ## Contact
- For any question, please file an issue or contact <br />
- Amirhossein Dadashzadeh: a.dadashzadeh@bristol.ac.uk
+ For any question, please file an issue or send an email to: a.dadashzadeh@bristol.ac.uk
 
 
 ## Acknowlegement
