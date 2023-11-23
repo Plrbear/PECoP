@@ -38,5 +38,16 @@ Will be updaated...
 
 
 ## Acknowlegement
+The authors would like to gratefully acknowledge the
+contribution of the Parkinson’s study participants. The 1st
+author is funded by a kind donation made to Southmead
+Hospital Charity, Bristol and by a donation from Caroline
+Belcher via the University of Bristol’s Development and
+Alumni Relations. The clinical trial from which the video
+data of the people with Parkinson’s was sourced was funded
+by Parkinson’s UK (Grant J-1102), with support from Cure
+Parkinson’s.
+
+
 Part of our codes are adapted from [VideoPace](https://github.com/laura-wang/video-pace), we thank the authors for their contributions.
 
