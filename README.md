@@ -15,7 +15,7 @@ PECoP vs Baseline: Enhancing AQA with domain-specific pretraining.
 
 
 
-<img src="https://github.com/Plrbear/PECoP/assets/31938815/83b9a5f0-04cc-4c12-90da-39cbf438ec87" width="600">
+<img src="https://github.com/Plrbear/PECoP/assets/31938815/83b9a5f0-04cc-4c12-90da-39cbf438ec87" width="400">
 
 
 
@@ -43,7 +43,7 @@ Will be updated...
 ### Results
 Spearman Rank Correlation results on the PD4T dataset with two AQA baselines, CoRe and USDL.
 
-<img src="https://github.com/Plrbear/PECoP/assets/31938815/f5b017b7-6f9b-45a0-9237-1a2b95bb424d" width="400">
+<img src="https://github.com/Plrbear/PECoP/assets/31938815/f5b017b7-6f9b-45a0-9237-1a2b95bb424d" width="600">
 
 
 ## Citation
