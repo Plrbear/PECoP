@@ -41,7 +41,7 @@ Will be updated...
 
 
 ### Results
-
+Spearman Rank Correlation results on the PD4T dataset with two AQA baselines, CoRe and USDL.
 
 <img src="https://github.com/Plrbear/PECoP/assets/31938815/f5b017b7-6f9b-45a0-9237-1a2b95bb424d" width="400">
 
