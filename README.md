@@ -13,10 +13,9 @@ To access the PD4T dataset, please complete and sign the [PD4T request form](dat
 ## Pretraining via PECoP 
 PECoP vs Baseline: Enhancing AQA with domain-specific pretraining.
 
-![image](https://github.com/Plrbear/PECoP/assets/31938815/83b9a5f0-04cc-4c12-90da-39cbf438ec87 {width=20px height=200px})
 
 
-<img src="https://github.com/Plrbear/PECoP/assets/31938815/83b9a5f0-04cc-4c12-90da-39cbf438ec87" width="48">
+<img src="https://github.com/Plrbear/PECoP/assets/31938815/83b9a5f0-04cc-4c12-90da-39cbf438ec87" width="100">
 
 
 
