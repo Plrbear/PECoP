@@ -40,6 +40,9 @@ python train.py --bs 16 --lr 0.001 --height 256 --width 256 --crop_sz 224 --clip
 Will be updated...
 
 
+### Results
+
+![image](https://github.com/Plrbear/PECoP/assets/31938815/f5b017b7-6f9b-45a0-9237-1a2b95bb424d)
 
 
 
