@@ -15,7 +15,7 @@ PECoP vs Baseline: Enhancing AQA with domain-specific pretraining.
 
 
 
-<img src="https://github.com/Plrbear/PECoP/assets/31938815/83b9a5f0-04cc-4c12-90da-39cbf438ec87" width="300">
+<img src="https://github.com/Plrbear/PECoP/assets/31938815/83b9a5f0-04cc-4c12-90da-39cbf438ec87" width="400">
 
 
 
