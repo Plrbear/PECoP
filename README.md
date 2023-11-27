@@ -37,8 +37,7 @@ python train.py --bs 16 --lr 0.001 --height 256 --width 256 --crop_sz 224 --clip
 
 
 ### Evaluation
-Will be updated...
-
+The pretrained I3D model with PECoP serves as the backbone network for our baselines — [USDL](https://github.com/nzl-thu/MUSDL) , [MUSDL](https://github.com/nzl-thu/MUSDL), [CoRe](https://github.com/yuxumin/CoRe), and [TSA](https://github.com/xujinglin/FineDiving) — and their performance is evaluated using the Spearman Rank Correlation metric.
 
 ### Results
 Spearman Rank Correlation results on the PD4T dataset with two AQA baselines, CoRe and USDL.
