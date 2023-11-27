@@ -11,7 +11,7 @@ The trained rater assigned a score for each task, based on the protocols of UPDR
 ### Download
 To access the PD4T dataset, please complete and sign the [PD4T request form](datasets/PD4T_Request_Form.docx) and forward it to a.dadashzadeh@bristol.ac.uk. By submitting your application, you acknowledge and confirm that you have read and understood the relevant notice. Upon receiving your request, we will promptly respond with the necessary link and guidelines.
 ## Pretraining via PECoP 
-# Main idea:
+Main idea:
 ![image](https://github.com/Plrbear/PECoP/assets/31938815/83b9a5f0-04cc-4c12-90da-39cbf438ec87)
 
 ### Requirements
