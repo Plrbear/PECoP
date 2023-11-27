@@ -1,4 +1,4 @@
-# [PECoP](https://arxiv.org/pdf/2311.07603.pdf)
+# PECoP
 This repository contains the PyTorch implementation for **PECoP: Parameter Efficient Continual Pretraining for Action Quality Assessment** (WACV 2024) [[arXiv](https://arxiv.org/pdf/2311.07603.pdf)]
 
 
