@@ -29,7 +29,23 @@ python train.py --bs 16 --lr 0.001 --height 256 --width 256 --crop_sz 224 --clip
 
 
 ### Evaluation
-Will be updaated...
+Will be updated...
+
+
+
+
+
+# Citation
+If you find this work useful or use our code, please consider citing:
+
+```
+@article{dadashzadeh2023pecop,
+  title={PECoP: Parameter Efficient Continual Pretraining for Action Quality Assessment},
+  author={Dadashzadeh, Amirhossein and Duan, Shuchao and Whone, Alan and Mirmehdi, Majid},
+  journal={arXiv preprint arXiv:2311.07603},
+  year={2023}
+}
+```
 
 
 
