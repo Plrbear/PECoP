@@ -21,7 +21,7 @@ def parse_args():
     parser = argparse.ArgumentParser()
     parser.add_argument('--gpu', type=str, default='0,1,2,3', help='gpu id')
     parser.add_argument('--height', type=int, default=256, help='resize height')
-    parser.add_argument('--pretrained_i3d_weight', type=str, default='/home/amir/AQA/Methods/CoRe/Original_aqa/CoRe-master/model_rgb.pth', help='please change the path with the path of I3D weights (pretrained on K400) in your PC.')
+    parser.add_argument('--pretrained_i3d_weight', type=str, default='./model_rgb.pth', help='Specify the path to the I3D weights pretrained on K400 on your machine.')
     parser.add_argument('--width', type=int, default=256, help='resize width')
     parser.add_argument('--clip_len', type=int, default=32, help='64, input clip length')
     parser.add_argument('--crop_sz', type=int, default=224, help='crop size')
